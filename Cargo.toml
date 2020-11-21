@@ -1,0 +1,14 @@
+[package]
+name = "utf8_slice"
+version = "1.0.0"
+authors = ["Gijs Burghoorn <me@gburghoorn.com>"]
+edition = "2018"
+description = "Lightweight UTF8 Slice Utilities"
+homepage = "https://github.com/coastalwhite/utf8_slice"
+repository = "https://github.com/coastalwhite/utf8_slice.git"
+license = "MIT"
+readme = "./README.md"
+
+keywords = ["unicode", "utf8", "slice", "string", "str"]
+
+categories = ["text-processing", "rust-patterns"]
